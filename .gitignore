@@ -1,0 +1,9 @@
+build/
+dist/
+release-assets/
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+venv/
+

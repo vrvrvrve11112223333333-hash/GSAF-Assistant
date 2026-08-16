@@ -1,0 +1,522 @@
+{
+  "format": 1,
+  "game_size": [
+    1344,
+    756
+  ],
+  "match_size": [
+    448,
+    252
+  ],
+  "templates": [
+    {
+      "id": "bonnie_distract",
+      "threat": "bonnie",
+      "signal": "urgent",
+      "file": "templates/bonnie_distract.png",
+      "threshold": 0.5,
+      "scale": 1.0,
+      "contexts": [
+        "camera"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "slithers_0",
+      "threat": "slithers",
+      "signal": "urgent",
+      "file": "templates/slithers_0.png",
+      "threshold": 0.8,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office",
+        "camera"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "slithers_1",
+      "threat": "slithers",
+      "signal": "urgent",
+      "file": "templates/slithers_1.png",
+      "threshold": 0.8,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office",
+        "camera"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "slithers_2",
+      "threat": "slithers",
+      "signal": "urgent",
+      "file": "templates/slithers_2.png",
+      "threshold": 0.8,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office",
+        "camera"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "slithers_3",
+      "threat": "slithers",
+      "signal": "urgent",
+      "file": "templates/slithers_3.png",
+      "threshold": 0.8,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office",
+        "camera"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "slithers_4",
+      "threat": "slithers",
+      "signal": "urgent",
+      "file": "templates/slithers_4.png",
+      "threshold": 0.8,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office",
+        "camera"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "slithers_5",
+      "threat": "slithers",
+      "signal": "urgent",
+      "file": "templates/slithers_5.png",
+      "threshold": 0.8,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office",
+        "camera"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "slithers_6",
+      "threat": "slithers",
+      "signal": "urgent",
+      "file": "templates/slithers_6.png",
+      "threshold": 0.8,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office",
+        "camera"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "berry_1",
+      "threat": "berry",
+      "signal": "visible",
+      "file": "templates/berry_1.png",
+      "threshold": 0.82,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "camera"
+      ],
+      "cameras": [
+        5
+      ]
+    },
+    {
+      "id": "berry_2",
+      "threat": "berry",
+      "signal": "urgent",
+      "file": "templates/berry_2.png",
+      "threshold": 0.82,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "camera"
+      ],
+      "cameras": [
+        5
+      ]
+    },
+    {
+      "id": "berry_3",
+      "threat": "berry",
+      "signal": "urgent",
+      "file": "templates/berry_3.png",
+      "threshold": 0.82,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "camera"
+      ],
+      "cameras": [
+        5
+      ]
+    },
+    {
+      "id": "cream_final_0",
+      "threat": "cream",
+      "signal": "urgent",
+      "file": "templates/cream_final_0.png",
+      "threshold": 0.82,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "camera"
+      ],
+      "cameras": [
+        7
+      ]
+    },
+    {
+      "id": "cream_final_3",
+      "threat": "cream",
+      "signal": "urgent",
+      "file": "templates/cream_final_3.png",
+      "threshold": 0.82,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "camera"
+      ],
+      "cameras": [
+        7
+      ]
+    },
+    {
+      "id": "cream_final_6",
+      "threat": "cream",
+      "signal": "urgent",
+      "file": "templates/cream_final_6.png",
+      "threshold": 0.82,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "camera"
+      ],
+      "cameras": [
+        7
+      ]
+    },
+    {
+      "id": "cream_final_9",
+      "threat": "cream",
+      "signal": "urgent",
+      "file": "templates/cream_final_9.png",
+      "threshold": 0.82,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "camera"
+      ],
+      "cameras": [
+        7
+      ]
+    },
+    {
+      "id": "cream_final_11",
+      "threat": "cream",
+      "signal": "urgent",
+      "file": "templates/cream_final_11.png",
+      "threshold": 0.82,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "camera"
+      ],
+      "cameras": [
+        7
+      ]
+    },
+    {
+      "id": "freddy_0",
+      "threat": "freddy",
+      "signal": "watch",
+      "file": "templates/freddy_0.png",
+      "threshold": 0.8,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "camera"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "freddy_12",
+      "threat": "freddy",
+      "signal": "watch",
+      "file": "templates/freddy_12.png",
+      "threshold": 0.8,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "camera"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "freddy_13",
+      "threat": "freddy",
+      "signal": "watch",
+      "file": "templates/freddy_13.png",
+      "threshold": 0.8,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "camera"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "freddy_14",
+      "threat": "freddy",
+      "signal": "watch",
+      "file": "templates/freddy_14.png",
+      "threshold": 0.8,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "camera"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "freddy_15",
+      "threat": "freddy",
+      "signal": "watch",
+      "file": "templates/freddy_15.png",
+      "threshold": 0.8,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "camera"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "freddy_16",
+      "threat": "freddy",
+      "signal": "watch",
+      "file": "templates/freddy_16.png",
+      "threshold": 0.8,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "camera"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "freddy_17",
+      "threat": "freddy",
+      "signal": "watch",
+      "file": "templates/freddy_17.png",
+      "threshold": 0.8,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "camera"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "bonnie_window_3_0",
+      "threat": "bonnie",
+      "signal": "urgent",
+      "file": "templates/bonnie_window_3_0.png",
+      "threshold": 0.89,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "bonnie_window_3_1",
+      "threat": "bonnie",
+      "signal": "urgent",
+      "file": "templates/bonnie_window_3_1.png",
+      "threshold": 0.89,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "bonnie_window_3_2",
+      "threat": "bonnie",
+      "signal": "urgent",
+      "file": "templates/bonnie_window_3_2.png",
+      "threshold": 0.89,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "bonnie_window_3_3",
+      "threat": "bonnie",
+      "signal": "urgent",
+      "file": "templates/bonnie_window_3_3.png",
+      "threshold": 0.89,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "bonnie_window_4_0",
+      "threat": "bonnie",
+      "signal": "urgent",
+      "file": "templates/bonnie_window_4_0.png",
+      "threshold": 0.89,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "bonnie_window_4_1",
+      "threat": "bonnie",
+      "signal": "urgent",
+      "file": "templates/bonnie_window_4_1.png",
+      "threshold": 0.89,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "bonnie_window_4_2",
+      "threat": "bonnie",
+      "signal": "urgent",
+      "file": "templates/bonnie_window_4_2.png",
+      "threshold": 0.89,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "bonnie_window_4_3",
+      "threat": "bonnie",
+      "signal": "urgent",
+      "file": "templates/bonnie_window_4_3.png",
+      "threshold": 0.89,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "chica_window_idle",
+      "threat": "chica",
+      "signal": "urgent",
+      "file": "templates/chica_window_idle.png",
+      "threshold": 0.88,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "chica_window_0",
+      "threat": "chica",
+      "signal": "urgent",
+      "file": "templates/chica_window_0.png",
+      "threshold": 0.88,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "chica_window_4",
+      "threat": "chica",
+      "signal": "urgent",
+      "file": "templates/chica_window_4.png",
+      "threshold": 0.88,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "chica_window_8",
+      "threat": "chica",
+      "signal": "urgent",
+      "file": "templates/chica_window_8.png",
+      "threshold": 0.88,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "chica_window_12",
+      "threat": "chica",
+      "signal": "urgent",
+      "file": "templates/chica_window_12.png",
+      "threshold": 0.88,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office"
+      ],
+      "cameras": []
+    },
+    {
+      "id": "chica_window_16",
+      "threat": "chica",
+      "signal": "urgent",
+      "file": "templates/chica_window_16.png",
+      "threshold": 0.88,
+      "scale": 0.3333333333333333,
+      "contexts": [
+        "office"
+      ],
+      "cameras": []
+    }
+  ],
+  "scenes": [
+    {
+      "id": "office",
+      "file": "scenes/office.jpg",
+      "camera": null
+    },
+    {
+      "id": "camera_1",
+      "file": "scenes/camera_1.jpg",
+      "camera": 1
+    },
+    {
+      "id": "camera_2",
+      "file": "scenes/camera_2.jpg",
+      "camera": 2
+    },
+    {
+      "id": "camera_3",
+      "file": "scenes/camera_3.jpg",
+      "camera": 3
+    },
+    {
+      "id": "camera_4",
+      "file": "scenes/camera_4.jpg",
+      "camera": 4
+    },
+    {
+      "id": "camera_5",
+      "file": "scenes/camera_5.jpg",
+      "camera": 5
+    },
+    {
+      "id": "camera_6",
+      "file": "scenes/camera_6.jpg",
+      "camera": 6
+    },
+    {
+      "id": "camera_7",
+      "file": "scenes/camera_7.jpg",
+      "camera": 7
+    }
+  ]
+}
